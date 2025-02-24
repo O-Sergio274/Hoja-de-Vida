@@ -1,6 +1,6 @@
 # Currículum de Sergio.M.O
 
-![Mi Foto de Perfil](./img/1Foto_de_perfil_modificada_photoshop.png)
+![Mi Foto de Perfil](1Foto_de_perfil_modificada_photoshop.png)
 
 ## Descripción
 
