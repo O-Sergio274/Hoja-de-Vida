@@ -31,3 +31,7 @@ Gracias por tomarte el tiempo de revisar mi CV. Aunque todavía no he trabajado 
 ---
 
 ![¡Visita mi CV interactivo!](https://raw.githubusercontent.com/serg274/Hoja-de-Vida/refs/heads/main/logo_whatsap_250px_.webp)
+
+![QR de mi sitio web portfolio](https://github.com/serg274/Hoja-de-Vida/blob/main/QR_IMG_para_la_WEB.png)
+
+
