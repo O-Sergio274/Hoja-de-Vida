@@ -4,7 +4,7 @@
 
 ## Descripción
 
-¡Hola! Soy **[Sergio]**, un **[Junior]** apasionado por el desarrollo web y siempre en busca de nuevos retos. Aunque todavía no tengo experiencia laboral formal, he estado trabajando en proyectos personales como **mi portafolio** y un **sitio web creado de manera voluntaria** para apoyar una causa que me apasiona.
+¡Hola! Soy **Sergio**, un **Junior** apasionado por el desarrollo web y siempre en busca de nuevos retos. Aunque todavía no tengo experiencia laboral formal, he estado trabajando en proyectos personales como **mi portafolio** y un **sitio web creado de manera voluntaria** para apoyar una causa que me apasiona.
 
 Mi portafolio y mis proyectos a nivel personal son la base de mi aprendizaje y desarrollo, y aunque no son proyectos remunerados, me han permitido adquirir muchas habilidades prácticas que me han preparado para asumir retos profesionales.
 
