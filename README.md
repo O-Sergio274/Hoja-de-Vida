@@ -30,7 +30,7 @@ Gracias por tomarte el tiempo de revisar mi CV. Aunque todavía no he trabajado 
 
 ---
 
-![]()
+![Logo_de_sitio_web](https://raw.githubusercontent.com/O-Sergio274/Hoja-de-Vida/refs/heads/main/logo_whatsap_250px_.webp)
 
 ![]()
 
