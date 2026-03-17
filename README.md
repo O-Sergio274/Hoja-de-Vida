@@ -1,37 +1,46 @@
-# Currículum de Sergio.M.O
+# Sergio M. Ocampo | Desarrollador Fullstack & Diseñador Gráfico
 
 ![Mi Foto de Perfil](1Foto_de_perfil_modificada_photoshop.png)
 
-## Descripción
+## 👨‍💻 Sobre mí
 
-¡Hola! Soy **Sergio**, un **Junior** apasionado por el desarrollo web y siempre en busca de nuevos retos. Aunque todavía no tengo experiencia laboral formal, he estado trabajando en proyectos personales como **mi portafolio** y un **sitio web creado de manera voluntaria** para apoyar una causa que me apasiona.
+¡Hola! Soy **Sergio**, creador de **Estudio Web**. Me apasiona construir soluciones digitales que no solo funcionen a la perfección, sino que también destaquen visualmente. Mi enfoque combina la lógica del desarrollo de software con la creatividad del diseño gráfico e interfaces web.
 
-Mi portafolio y mis proyectos a nivel personal son la base de mi aprendizaje y desarrollo, y aunque no son proyectos remunerados, me han permitido adquirir muchas habilidades prácticas que me han preparado para asumir retos profesionales.
+Soy un profesional autodidacta y proactivo, acostumbrado a gestionar proyectos de principio a fin, optimizando recursos y entregando productos web modernos, interactivos y adaptables a cualquier dispositivo.
 
-## ¿Qué he hecho hasta ahora?
+## 🚀 Proyectos Destacados
 
-- **Portafolio personal**: He creado un sitio web donde muestro mis habilidades, proyectos y conocimientos en desarrollo web, como una forma de aprender y demostrar lo que puedo hacer.
+- **Estudio Web | Portafolio Profesional**: Diseño, maquetación y desarrollo completo de mi plataforma de marca personal. Implementé animaciones personalizadas, diseño web responsivo y un formulario de contacto dinámico. Sirve como prueba viva de mi stack tecnológico y mi atención al detalle visual.
   
-- **Sitio web a donores**: Desarrollé un sitio web para una organización sin fines de lucro, donde puse en práctica mis conocimientos de **HTML, CSS, JavaScript, y diseño web responsivo**.
+- **Plataforma Web para Organización sin fines de lucro**: Lideré el desarrollo y diseño integral de un sitio web para una cooperativa/entidad social. Este proyecto me permitió aplicar soluciones reales a necesidades administrativas e informativas, manejando la comunicación con el cliente, el diseño UI/UX y la escritura del código (HTML, CSS, JavaScript).
 
-Aunque mis proyectos aún no están en un entorno profesional, he aprendido valiosas lecciones sobre el trabajo en equipo, la gestión de proyectos y la importancia de la creatividad en la solución de problemas.
+## 🛠️ Tecnologías y Habilidades
 
-## Habilidades
+**Desarrollo Front-End & Back-End:**
+- JavaScript (ES6+) / TypeScript
+- React.js / Node.js
+- HTML5 / CSS3 (Flexbox, Grid, Animaciones)
+- Python
 
-- **Desarrollo Front-End**: HTML5, CSS3, JavaScript, Bootstrap, React.
-- **Diseño Responsivo**: Creación de páginas web que funcionan perfectamente en dispositivos móviles y de escritorio.
-- **Gestión de Proyectos**: A pesar de ser proyectos personales, he gestionado tanto el diseño como la implementación de cada uno.
-  
-## Agradecimientos
+**Diseño y Multimedia:**
+- Diseño UI/UX y maquetación web responsiva.
+- Herramientas de diseño gráfico y modelado 3D (Figma, Blender).
+- Integración de experiencias web interactivas.
 
-Gracias por tomarte el tiempo de revisar mi CV. Aunque todavía no he trabajado en proyectos remunerados, estoy muy motivado y listo para aprender más y crecer profesionalmente. Si tienes algún proyecto o alguna oportunidad donde puedas necesitar un desarrollador web entusiasta, no dudes en contactarme.
+**Soft Skills:**
+- Gestión integral de proyectos (desde la planificación hasta el despliegue).
+- Autogestión, resolución de problemas y aprendizaje continuo.
 
-¡Espero poder colaborar contigo pronto y seguir aprendiendo!
+## 📫 Contacto y Colaboraciones
+
+Estoy en constante evolución técnica y abierto a nuevos desafíos, ya sea para roles freelance, proyectos a medida o integrarme a un equipo de desarrollo dinámico. Si buscas un desarrollador con un fuerte sentido del diseño y la usabilidad, hablemos.
 
 ---
 
-![Logo_de_sitio_web](https://raw.githubusercontent.com/O-Sergio274/Hoja-de-Vida/refs/heads/main/logo_whatsap_250px_.webp)
-
-![Portafolio Estudio Web | Sergio M.O](https://o-sergio274.github.io/Portafolio/)
-
-
+<div align="center">
+  <a href="https://o-sergio274.github.io/Portafolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/O-Sergio274/Hoja-de-Vida/refs/heads/main/logo_whatsap_250px_.webp" alt="Visitar Portafolio Estudio Web" width="250">
+  </a>
+  <br>
+  <em>👆 Haz clic en la imagen para visitar mi sitio en vivo 👆</em>
+</div>
