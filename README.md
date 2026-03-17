@@ -4,13 +4,13 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Hola! Soy **Sergio**, creador de **Estudio Web**. Me apasiona construir soluciones digitales que no solo funcionen a la perfección, sino que también destaquen visualmente. Mi enfoque combina la lógica del desarrollo de software con la creatividad del diseño gráfico e interfaces web.
+¡Hola! Soy **Sergio**, creador de **Estudio Web | Sergio M.O**. Me apasiona construir soluciones digitales que no solo funcionen a la perfección, sino que también destaquen visualmente. Mi enfoque combina la lógica del desarrollo de software con la creatividad del diseño gráfico e interfaces web.
 
 Soy un profesional autodidacta y proactivo, acostumbrado a gestionar proyectos de principio a fin, optimizando recursos y entregando productos web modernos, interactivos y adaptables a cualquier dispositivo.
 
 ## 🚀 Proyectos Destacados
 
-- **Estudio Web | Portafolio Profesional**: Diseño, maquetación y desarrollo completo de mi plataforma de marca personal. Implementé animaciones personalizadas, diseño web responsivo y un formulario de contacto dinámico. Sirve como prueba viva de mi stack tecnológico y mi atención al detalle visual.
+- **Portafolio Estudio Web | Sergio M.O**: Diseño, maquetación y desarrollo completo de mi plataforma de marca personal. Implementé animaciones personalizadas, diseño web responsivo y un formulario de contacto dinámico. Sirve como prueba viva de mi stack tecnológico y mi atención al detalle visual.
   
 - **Plataforma Web para Organización sin fines de lucro**: Lideré el desarrollo y diseño integral de un sitio web para una cooperativa/entidad social. Este proyecto me permitió aplicar soluciones reales a necesidades administrativas e informativas, manejando la comunicación con el cliente, el diseño UI/UX y la escritura del código (HTML, CSS, JavaScript).
 
@@ -20,11 +20,11 @@ Soy un profesional autodidacta y proactivo, acostumbrado a gestionar proyectos d
 - JavaScript (ES6+) / TypeScript
 - React.js / Node.js
 - HTML5 / CSS3 (Flexbox, Grid, Animaciones)
-- Python
+
 
 **Diseño y Multimedia:**
 - Diseño UI/UX y maquetación web responsiva.
-- Herramientas de diseño gráfico y modelado 3D (Figma, Blender).
+- Herramientas de diseño gráfico y modelado 3D (Figma).
 - Integración de experiencias web interactivas.
 
 **Soft Skills:**
