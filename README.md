@@ -39,7 +39,7 @@ Estoy en constante evolución técnica y abierto a nuevos desafíos, ya sea para
 
 <div align="center">
   <a href="https://o-sergio274.github.io/Portafolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/O-Sergio274/Hoja-de-Vida/refs/heads/main/logo_whatsap_250px_.webp" alt="Visitar Portafolio Estudio Web" width="250">
+    <img src="https://raw.githubusercontent.com/o-sergio274/Hoja-de-Vida/refs/heads/main/logo_whatsap_250px_.webp" alt="Visitar Portafolio Estudio Web" width="250">
   </a>
   <br>
   <em>👆 Haz clic en la imagen para visitar mi sitio en vivo 👆</em>
